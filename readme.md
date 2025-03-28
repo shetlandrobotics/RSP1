@@ -1,4 +1,4 @@
-# Intelligent Sinker Probe
+# Research Sinker Probe version 1 (RSP1)
 
 Welcome to the Intelligent Sinker Probe project! This repository will soon contain the open-source software and design documents for our innovative AI-powered underwater probe. The Intelligent Sinker Probe is designed to streamline underwater data collection, offering an affordable solution for large-scale monitoring of marine environments.
 
